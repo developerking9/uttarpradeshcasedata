@@ -1,0 +1,14 @@
+{
+  "UttarPradeshCaseReport": [
+    {
+      "id": 1,
+      "Name": "Telangana State",
+      "TotalCases": "65000",
+      "TotalDeaths": "950",
+      "TotalRecovered": "15000",
+      "TotalInc": "4700",
+      "TotalDec": "0",
+      "Condition": "Need to improve"
+    }
+  ]
+}
