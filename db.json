@@ -2,13 +2,17 @@
   "UttarPradeshCaseReport": [
     {
       "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+      "Nameup": "Uttar Pradesh (उत्तर प्रदेश)",
+      "TotalCasesup": "1583792",
+      "TotalDeathsup": "34968",
+      "TotalRecoveredup": "1020582",
+      "TotalCasesoup": "1.58M",
+      "TotalDeathswup": "34.96K",
+      "TotalRecoveredrup": "1.02M",
+      "TotalIncup": "52.12K+",
+      "TotalDecup": "775+",
+      "TotalRecup": "32.55K+",
+      "Conditionup": "Need to improve"
     }
   ]
 }
